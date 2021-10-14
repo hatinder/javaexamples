@@ -1,4 +1,4 @@
-package com.examples.utility;
+package com.jeet.utility;
 
 import org.slf4j.Logger;
 
