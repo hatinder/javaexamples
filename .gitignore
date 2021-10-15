@@ -22,3 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.idea/
+/codesignal/target/
+/codesignal/codesignal.iml
+/example2/target/
+/example2/example2.iml
+/helloworld-cli/target/
+/helloworld-cli/helloworld-cli.iml
+/slf4j/target/
+/javaexamples.iml
+/multiplecli/.mvn/wrapper/
