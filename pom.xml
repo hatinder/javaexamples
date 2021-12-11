@@ -42,6 +42,9 @@
 		<module>springboot-helloworld-cli</module>
 		<module>codesignal</module>
 		<module>example2</module>
+		<module>sedgewick.algorithms</module>
+		<module>jds</module>
+		<module>jcc</module>
 	</modules>
     <build>
         <plugins>
